@@ -1,36 +1,39 @@
 <html>
+
 <head>
     <title>portfolio</title>
     <style>
     body {
         margin: 0;
     }
+
     canvas {
         width: 640px;
         height: 360px
     }
+
     .x,
     .y,
-    .z,
-    .xrot,
-    .yrot,
-    .zrot {
+    .z {
         margin-left: 20px;
     }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
     <div class="x"></div>
     <div class="y"></div>
     <div class="z"></div>
-    <div class="xrot"></div>
-    <div class="yrot"></div>
-    <div class="zrot"></div>
+    <div class="mousex"></div>
+    <div class="mousey"></div>
     <canvas id="c"></canvas>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/105/three.js"></script>
-    <script src="assets/js/OrbitControls.js"></script>
+    <script src="assets/js/three.js"></script>
+    <script src="assets/js/FirstPersonControls.js"></script>
     <script src="https://threejsfundamentals.org/threejs/resources/threejs/r105/js/loaders/LoaderSupport.js"></script>
     <script src="https://threejsfundamentals.org/threejs/resources/threejs/r105/js/loaders/GLTFLoader.js"></script>
     <script src="scripts.js"></script>
 </body>
+
 </html>
