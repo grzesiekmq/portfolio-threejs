@@ -1,25 +1,44 @@
+.hero.is-fullheight {
+    background: #35404c;
+    color: deepskyblue;
+
+    position: fixed;
+
+}
+
 .object-details {
     border-radius: 10%;
     background: #35404c;
-    color: #2980b9;
-    width: 100px;
-    height: 100px;
+    color: deepskyblue;
+    width: 120px;
+    height: 120px;
 
     position: absolute;
 }
 
-.object-details.about-me {
+.object-details.about-me,
+.object-details.contact,
+.object-details.projects {
     top: 50%;
     left: 50%;
 
 }
 
-.object-details.contact {
-    top: 40%;
-    left: 50%;
+.titles {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    background: #35404c;
+    color: deepskyblue;
 }
 
-.object-details.projects {
-    top: 60%;
-    left: 30%;
+.titles li {
+    display: inline;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+.titles li:hover {
+
+    color: white;
 }

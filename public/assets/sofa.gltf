@@ -1,0 +1,614 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 41479,
+      "max": [
+        1459.63818359375,
+        1317.859619140625,
+        411.90402221679688
+      ],
+      "min": [
+        -840.2677001953125,
+        363.22048950195312,
+        -469.932861328125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 497748,
+      "componentType": 5126,
+      "count": 41479,
+      "max": [
+        0.99999827146530151,
+        0.99999743700027466,
+        1
+      ],
+      "min": [
+        -0.99999827146530151,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 41479,
+      "max": [
+        1,
+        1,
+        0.95615661144256592,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.95615667104721069,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 216528,
+      "max": [
+        41478
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 995496,
+      "componentType": 5126,
+      "count": 8547,
+      "max": [
+        1443.094970703125,
+        1203.21142578125,
+        389.06393432617188
+      ],
+      "min": [
+        -823.724609375,
+        379.76974487304688,
+        359.75238037109375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1098060,
+      "componentType": 5126,
+      "count": 8547,
+      "max": [
+        0.99999517202377319,
+        0.99992257356643677,
+        1
+      ],
+      "min": [
+        -0.99999529123306274,
+        -0.99999994039535522,
+        0.00041134536149911582
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 663664,
+      "componentType": 5126,
+      "count": 8547,
+      "max": [
+        1,
+        0.17161320149898529,
+        0.99999845027923584,
+        1
+      ],
+      "min": [
+        0.0017920180689543486,
+        -0.16893847286701202,
+        -0.99999845027923584,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8547,
+      "max": [
+        0.98629134893417358,
+        0.37814667820930481
+      ],
+      "min": [
+        0.0076857767999172211,
+        0.0061439573764801025
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 866112,
+      "componentType": 5125,
+      "count": 43038,
+      "max": [
+        8546
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1200624,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        40.251571655273438,
+        29.140460968017578,
+        0
+      ],
+      "min": [
+        -40.251571655273438,
+        -29.140460968017578,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1200672,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 800416,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 68376,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.98256248235702515,
+        0.38268795609474182
+      ],
+      "min": [
+        0.38247695565223694,
+        0.014586061239242554
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1038264,
+      "componentType": 5125,
+      "count": 6,
+      "max": [
+        3
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3D SHARE 2 (https://sketchfab.com/nganngan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/4f756b99f9714b1996b9de5b1595905e",
+      "title": "Trescani Sofa"
+    },
+    "generator": "Sketchfab-3.20.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1038288,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 68408,
+      "byteOffset": 1038288,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1200720,
+      "byteOffset": 1106696,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 800480,
+      "byteOffset": 2307416,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3107896,
+      "uri": "sofa.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_33_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/3DSHARE_STUDIO_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "skinn_01",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.94117700000000004,
+          0.90588199999999997,
+          0.83529399999999998,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material_33",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.10000000000000001
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "3DSHARE_STUDIO",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.83999999999999997
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Tricani Sofa_skinn_01_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Wood_Material #33_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane001_3DSHARE STUDIO_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TANGENT": 11,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Trescani.FBX"
+    },
+    {
+      "children": [
+        4,
+        7,
+        10
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.10000000149011612,
+        0,
+        0,
+        0,
+        0,
+        0.10000000149011541,
+        1.1920929132713781e-08,
+        0,
+        0,
+        -1.1920929132713781e-08,
+        0.10000000149011541,
+        0,
+        3.0425796508789062,
+        46.114906311035156,
+        26.389904022216797,
+        1
+      ],
+      "name": "Tricani Sofa"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        -0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -309.685302734375,
+        -824.36962890625,
+        29.014410018920898,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "Tricani Sofa_skinn_01_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.10000000149011612,
+        0,
+        0,
+        0,
+        0,
+        0.10000000149011541,
+        1.1920930020892212e-08,
+        0,
+        0,
+        -1.1920930020892212e-08,
+        0.10000000149011541,
+        0,
+        3.0425796508789062,
+        46.114906311035156,
+        26.389904022216797,
+        1
+      ],
+      "name": "Wood"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        -0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -309.685302734375,
+        -824.36962890625,
+        29.014410018920898,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": "Wood_Material #33_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        3.962526798248291,
+        0,
+        0,
+        0,
+        0,
+        5.4326231547387866e-16,
+        -2.4466359615325928,
+        0,
+        0,
+        5.4312210083007812,
+        1.2059733230486772e-15,
+        0,
+        2.7437286376953125,
+        -0.00018173379066865891,
+        25.675521850585938,
+        1
+      ],
+      "name": "Plane001"
+    },
+    {
+      "mesh": 2,
+      "name": "Plane001_3DSHARE STUDIO_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
